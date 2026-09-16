@@ -1,0 +1,5 @@
+ASSIGNMENT 3 : CASE STUDY IN AGI
+1. Look into the AGI and its Components 
+2. Design a case study where AGI can be used.
+3. Look for the advantage and disadvantage of AGI.
+
